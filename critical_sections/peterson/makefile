@@ -1,5 +1,6 @@
 FLAG=/nologo
 all:
-	echo WIP..QQ
+	cl $(FLAG) main.cpp
 clean:
-	echo WIP..QQ
+	del *.obj
+	del *.exe

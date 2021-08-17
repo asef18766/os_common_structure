@@ -1,0 +1,1 @@
+cmd /c "vcvars64.bat && nmake"
